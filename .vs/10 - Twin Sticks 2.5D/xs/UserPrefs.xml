@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{2C58F4F2-0F80-0408-9E8A-E1D573B32789}|">
   <MonoDevelop.Ide.ItemProperties.10_220-_220Twin_220Sticks_2202.5D PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TestScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
     <Files>
-      <File FileName="Assets/Scripts/TestScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TestScript.cs" Line="11" Column="41" />
+      <File FileName="Assets/Scripts/Player.cs" Line="15" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
